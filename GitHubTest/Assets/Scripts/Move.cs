@@ -31,7 +31,7 @@ public class Move : MonoBehaviour
     {
         if (other.gameObject.tag == "Hit")
         {
-            print("Ouch");
+            //print("Ouch");
         }
     }
     
