@@ -30,7 +30,7 @@ public class MoveScript : MonoBehaviour
     {
         if (other.gameObject.tag == "Hit")
         {
-            //print("Ouch");
+            print("Ouch");
 
         }
     }
